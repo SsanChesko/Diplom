@@ -29,3 +29,5 @@
 Устранить дефекты обнаруженные на этапе тестирования https://github.com/SsanChesko/Diplom/issues
 
 ## 5. AllureReport
+!(Allure Report — mysql overview.png)
+!(Allure Report — Postgresql overview.png)
